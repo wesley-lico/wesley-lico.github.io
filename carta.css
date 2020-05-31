@@ -1,0 +1,47 @@
+div.first{
+    background-color: lightcoral;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 500px;
+    font-size: 50px;
+}
+div.second{
+    background-color: lightcoral;
+    border: none;
+    position: relative;
+    left: 15px;
+    width: fit-content;
+    height: fit-content;
+    font-size: 50px;
+}
+div.fourth{
+    background-color: lightcoral;
+    border: none;
+    width: 1300;
+    height: 600;
+    position: relative;
+    left: 15px;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 50px;
+}
+div.fifth{
+    background-color: lightcoral;
+    border: none;
+    position: relative;
+    left: 15px;
+    width: fit-content;
+    height: fit-content;
+    font-size: 50px;
+}
+div.sixth{
+    background-color: lightcoral;
+    border: none;
+    position: relative;
+    left: 15px;
+    width: fit-content;
+    height: fit-content;
+    font-size: 50px;
+}
